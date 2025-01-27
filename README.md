@@ -15,4 +15,4 @@ This repository contains SQL scripts, documentation, and visualizations for a co
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/hemant-soni-5210b7226/)
 - [GitHub Profile](https://github.com/Hemant-5516)
-- [Pizza Sales Presentation (PDF)]([(https://github.com/Hemant-5516/SQL-Pizza-Sales-Project/blob/65af3695ee9e7dea15f7d4552f58e1b02ad284a4/Pizza_sales.pdf)])
+- [Pizza Sales Presentation (PDF)](Pizza_sales.pdf)
